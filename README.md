@@ -36,3 +36,4 @@ No JavaScript or external libraries are used in this basic version, keeping the 
 Overall, this task helps a developer learn the fundamentals of web design, responsive layout creation, and personal branding. It’s a practical and valuable exercise for building confidence in frontend development and showcasing one’s profile online.
 
 OUTPUT- 
+<img width="1366" height="687" alt="Image" src="https://github.com/user-attachments/assets/ced7e225-a773-4583-a096-15d13e4198d8" />
